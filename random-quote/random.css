@@ -1,0 +1,19 @@
+body{
+	background: url("https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif");
+}
+.text-container{
+	margin: 130px auto;
+	background: rgba(242, 223, 29, 0.4); 
+	width: 50%;
+	height:170px;
+	border-radius: 10px;
+	text-align: center;
+}
+.button{
+	margin: 0 auto;
+}
+.footer{
+	margin: -123px auto;
+	text-align: center;
+	color: rgb(225, 16, 47);
+}
