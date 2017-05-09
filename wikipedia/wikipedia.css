@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  background: url("https://www.workshopdigital.com/wp-content/uploads/2015/10/wikipedia-logo-892x1024.png")center no-repeat;
+  background-color:rgba(29, 71, 242, 0.2);
+}
+#group{
+  margin: 178px auto;
+}
+#textbox{
+  border-radius: 10px;
+  width: 198px;
+	height: 35px;
+	border-radius: 10px;
+  border: 2px solid orange;
+}
+#search{
+  border-radius: 10px;
+  width: 58px;
+	height: 35px;
+	border-radius: 10px;
+  border: 2px solid orange;
+  background-color: rgba(104, 242, 29, 0.3);
+}
+#result{
+  margin:0 auto;
+  color:blue;
+  width:80%;
+  font-family:"Lobster",cursive;
+  padding-right:5vw;
+}
+
